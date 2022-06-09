@@ -1,0 +1,15 @@
+id,label,género,tipo,categoría,universo
+1,Teodora,Mujer,Dama,Caballería urbana,Urbano
+2,Celia,Mujer,Dama,Caballería urbana,Urbano
+3,Inés,Mujer,Criada,Criados,Servidumbre
+4,Don García,Hombre,Galán,Caballería urbana,Urbano
+5,Pedro,Hombre,Criado-Gracioso,Criados,Servidumbre
+6,Lucindo,Hombre,Galán,Caballería urbana,Urbano
+7,Lisardo,Hombre,Galán-Autoridad,Caballería urbana,Urbano
+8,Fabio,Hombre,Criado,Criados,Urbano
+9,Fabricio,Hombre,Galán,Caballería urbana,Urbano
+10,Leandro,Hombre,Galán,Caballería urbana,Urbano
+11,Don Rodrigo,Hombre,Galán,Caballería urbana,Urbano
+12,Liseo,Hombre,Criado,Criados,Servidumbre
+13,Ricardo,Hombre,-,Menestrales y artesanos,Urbano
+14,Caballeros,Hombre,-,Caballería urbana,Urbano
