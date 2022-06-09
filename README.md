@@ -1,7 +1,9 @@
 # enREDos
-Este repositorio contiene los archivos básicos necesarios para trabajar el análisis de redes de personajes de comedias del Siglo de Oro.
+Este repositorio contiene los datos necesarios para trabajar el análisis de redes de personajes de comedias del Siglo de Oro.
 
-Actualmente están disponibles matrices de adyacencia y tablas de nodos de los siguientes textos:
+## Corpus
+Actualmente están disponibles los datos en formato csv de ocho comedias urbanas de Lope de Vega. Estas han sido analizadas en mi Trabajo Fin de Máster en Formación e investigación literaria y teatral (UNED), que será referenciado aquí cuando se publique en el repositorio de la universidad tras su defensa.
+
 - _Las ferias de Madrid_ (Lope de Vega)
 - _La francesilla_ (Lope de Vega)
 - _La discreta enamorada_ (Lope de Vega)
@@ -11,4 +13,9 @@ Actualmente están disponibles matrices de adyacencia y tablas de nodos de los s
 - _La noche de San Juan_ (Lope de Vega)
 - _Las bizarrías de Belisa_ (Lope de Vega)
 
-Estas ocho comedias urbanas han sido analizadas en mi Trabajo Fin de Máster en Formación e investigación literaria y teatral (UNED), que será referenciado aquí cuando se publique en el repositorio de la universidad.
+## Metodología y criterios de cuantificación
+Los archivos de **aristas** contienen una matriz de adyacencia recogida manualmente en una hoja de cálculo, estableciendo como criterio de cuantificación la interacción lingüística directa entre cada personaje. 
+
+Los archivos con datos sobre los nodos incluyen el id, nombre de personaje, género, función dramática, grupo y universo social de cada personaje que interviene.
+
+(Podrá consultarse más información próximanente en el TFM.)
