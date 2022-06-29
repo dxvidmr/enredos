@@ -1,10 +1,10 @@
-id,label,género,tipo,categoría,universo
+id,label,género,función,grupo,universo
 1,Lisardo,Hombre,Galán,Caballería urbana,Urbano
 2,Riselo,Hombre,Galán,Caballería urbana,Urbano
-3,Beltrán,Hombre,Criado-Gracioso,Criados,Servidumbre
+3,Beltrán,Hombre,Criado,Criados,Servidumbre
 4,Belisa,Mujer,Dama,Caballería urbana,Urbano
 5,Teodora,Mujer,Autoridad-Dama,Caballería urbana,Urbano
-6,Leonor,Mujer,Criada,Criados,Servidumbre
+6,Leonor,Mujer,Criada,Esclavos,Servidumbre
 7,Prudencio,Hombre,Viejo,Caballería urbana,Urbano
 8,Octavio,Hombre,Galán,Caballería urbana,Urbano
 9,Salucio,Hombre,Criado,Criados,Servidumbre
