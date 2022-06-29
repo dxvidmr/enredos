@@ -13,7 +13,7 @@ Actualmente están disponibles los datos en formato csv de ocho comedias urbanas
 - _La noche de San Juan_ (Lope de Vega)
 - _Las bizarrías de Belisa_ (Lope de Vega)
 
-## Metodología y criterios de cuantificación
+## Criterios de extracción y cuantificación
 Los archivos de **aristas** contienen una matriz de adyacencia recogida manualmente en una hoja de cálculo, estableciendo como criterio de cuantificación la interacción lingüística directa entre cada personaje. 
 
 Los archivos con datos sobre los **nodos** incluyen el id, nombre de personaje, género, función dramática, grupo y universo social de cada personaje que interviene.
