@@ -1,29 +1,29 @@
-id,label,género,tipo,categoría,universo
-1,Guillermo,Hombre,,Comerciantes,Urbano
-2,Pierres,Hombre,,Comerciantes,Urbano
+id,label,género,función,grupo,universo
+1,Guillermo,Hombre,-,Comerciantes,Urbano
+2,Pierres,Hombre,-,Comerciantes,Urbano
 3,Lucrecio,Hombre,Galán,Caballería urbana,Urbano
 4,Adrián,Hombre,Galán,Caballería urbana,Urbano
 5,Roberto,Hombre,Galán,Caballería urbana,Urbano
 6,Claudio,Hombre,Galán,Caballería urbana,Urbano
 7,Leandro,Hombre,Galán,Caballería urbana,Urbano
 8,Eufrasia,Mujer,Dama,Caballería urbana,Urbano
-9,Teodora,Mujer,Criada,Caballería urbana,Urbano
-10,Escudero viejo,Hombre,Criado,Criados cualificados,Urbano
-11,Alberto,Hombre,Galán,Caballería urbana,Urbano
+9,Teodora,Mujer,Criada,Criados,Servidumbre
+10,Escudero viejo,Hombre,Criado,Criados cualificados,Servidumbre
+11,Alberto,Hombre,Galán-Autoridad,Caballería urbana,Urbano
 12,Isidro,Hombre,Criado,Criados,Servidumbre
 13,Eugenia,Mujer,Dama,Caballería urbana,Urbano
-14,Estacio (paje),Hombre,Criado,Pajes,Servidumbre
-15,Ladrón,Hombre,,Ladrones,Urbano
-16,Alguacil,Hombre,,Funcionarios,Urbano
+14,Estacio,Hombre,Criado,Pajes,Servidumbre
+15,Ladrón,Hombre,-,Ladrones,Urbano
+16,Alguacil,Hombre,-,Funcionarios,Urbano
 17,Belardo,Hombre,Viejo,Caballería urbana,Urbano
 18,Violante,Mujer,Dama,Caballería urbana,Urbano
-19,Patricio,Hombre,,Caballería urbana,Urbano
-20,Villano 1,Hombre,,Villanos,Rural
-21,Villano 2,Hombre,,Villanos,Rural
-22,Villano 3,Hombre,,Villanos,Rural
-23,Muchacho 1,Hombre,,Pícaros,Urbano
-24,Muchacho 2,Hombre,,Pícaros,Urbano
-25,Moreno,Hombre,,Comerciantes,Urbano
-26,Muchacho,Hombre,,Comerciantes,Urbano
-27,Fregona,Mujer,,Criada,Servidumbre
-28,Criado,Hombre,,Criados,Servidumbre
+19,Patricio,Hombre,Autoridad,Caballería urbana,Urbano
+20,Villano 1,Hombre,-,Villanos,Rural
+21,Villano 2,Hombre,-,Villanos,Rural
+22,Villano 3,Hombre,-,Villanos,Rural
+23,Muchacho 1,Hombre,-,Pícaros,Urbano
+24,Muchacho 2,Hombre,-,Pícaros,Urbano
+25,Moreno,Hombre,-,Comerciantes,Urbano
+26,Muchacho,Hombre,-,Comerciantes,Urbano
+27,Fregona,Mujer,-,Criados,Servidumbre
+28,Criado,Hombre,-,Criados,Servidumbre
