@@ -1,12 +1,12 @@
-id,label,género,tipo,categoría,universo
+id,label,género,función,grupo,universo
 1,Alberto,Hombre,Viejo,Caballería urbana,Urbano
 2,Liseno,Hombre,Galán,Caballería urbana,Urbano
 3,Feliciano,Hombre,Galán,Caballería urbana,Urbano
-4,Tristán,Hombre,Criado-Gracioso,Criados,Servidumbre
+4,Tristán,Hombre,Criado,Criados,Servidumbre
 5,Leonida,Mujer,Dama,Caballería urbana,Urbano
-6,Postillón,Hombre,-,Menestreles y artesanos,Servidumbre
+6,Postillón,Hombre,-,Menestrales y artesanos,Urbano
 7,Clavelia,Mujer,Dama,Caballería urbana,Urbano
-8,Dorista,Mujer,-,Alcahueta,Urbano
+8,Dorista,Mujer,-,Alcahuetas,Urbano
 9,Teodoro,Hombre,Galán-Autoridad,Caballería urbana,Urbano
 10,Otavio,Hombre,Galán,Caballería urbana,Urbano
 11,Filiberto,Hombre,Galán,Caballería urbana,Urbano
