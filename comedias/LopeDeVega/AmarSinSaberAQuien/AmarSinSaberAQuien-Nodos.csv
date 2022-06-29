@@ -1,6 +1,6 @@
-id,label,género,tipo,categoría,universo
+id,label,género,función,grupo,universo
 1,Don Juan,Hombre,Galán,Caballería urbana,Urbano
-2,Limón,Hombre,Criado-Gracioso,Criados,Servidumbre
+2,Limón,Hombre,Criado,Criados,Servidumbre
 3,Leonarda,Mujer,Dama,Caballería urbana,Urbano
 4,Inés,Mujer,Criada,Criados,Servidumbre
 5,Don Fernando,Hombre,Galán-Autoridad,Caballería urbana,Urbano
@@ -12,6 +12,6 @@ id,label,género,tipo,categoría,universo
 11,Alguacil,Hombre,-,Funcionarios,Urbano
 12,Justicia,Hombre,-,Funcionarios,Urbano
 13,Escribano,Hombre,-,Funcionarios,Urbano
-14,Sancho,Hombre,-,Preso,Urbano
-15,Cespedosa,Hombre,-,Preso,Urbano
-16,Rosales,Hombre,-,Preso,Urbano
+14,Sancho,Hombre,-,Presos,Urbano
+15,Cespedosa,Hombre,-,Presos,Urbano
+16,Rosales,Hombre,-,Presos,Urbano
