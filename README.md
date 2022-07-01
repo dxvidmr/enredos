@@ -1,5 +1,6 @@
 # enREDos
 Este repositorio contiene los datos necesarios para trabajar el análisis de redes de personajes de comedias del Siglo de Oro.
+![](https://github.com/dxvidmr/enredos/blob/main/img/portada.png)
 
 ## Corpus
 Actualmente están disponibles los datos en formato csv de ocho comedias urbanas de Lope de Vega. Estas han sido analizadas en mi Trabajo Fin de Máster en Formación e investigación literaria y teatral (UNED), que será referenciado aquí cuando se publique en el repositorio de la universidad tras su defensa.
