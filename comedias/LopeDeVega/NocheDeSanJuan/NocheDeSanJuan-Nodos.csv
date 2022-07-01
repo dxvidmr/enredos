@@ -1,8 +1,8 @@
-id,label,género,tipo,categoría,universo
+id,label,género,función,grupo,universo
 1,Doña Leonor,Mujer,Dama,Caballería urbana,Urbano
 2,Inés,Mujer,Criada,Criados,Servidumbre
 3,Don Juan,Hombre,Galán,Caballería urbana,Urbano
-4,Tello,Hombre,Criado-Gracioso,Criados,Servidumbre
+4,Tello,Hombre,Criado,Criados,Servidumbre
 5,Don Luis,Hombre,Galán-Autoridad,Caballería urbana,Urbano
 6,Don Bernardo,Hombre,Galán-Autoridad,Caballería urbana,Urbano
 7,Doña Blanca,Mujer,Dama,Caballería urbana,Urbano
