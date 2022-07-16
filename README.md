@@ -19,4 +19,4 @@ Los archivos de **aristas** contienen una matriz de adyacencia recogida manualme
 
 Los archivos con datos sobre los **nodos** incluyen el id, nombre de personaje, género, función dramática, grupo y universo social de cada personaje que interviene.
 
-(Podrá consultarse más información próximanente en el TFM.)
+Para más información, consultar [mi sitio web](https://dxvidmr.github.io/projects/enredos_project/) y mi TFM (una vez que se publique).
