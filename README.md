@@ -3,7 +3,7 @@ Este repositorio contiene los datos necesarios para trabajar el análisis de red
 ![](https://github.com/dxvidmr/enredos/blob/main/img/portada.png)
 
 ## Corpus
-Actualmente están disponibles los datos en formato csv de ocho comedias urbanas de Lope de Vega. Estas han sido analizadas en mi Trabajo Fin de Máster en Formación e investigación literaria y teatral (UNED), que será referenciado aquí cuando se publique en el repositorio de la universidad tras su defensa.
+Actualmente están disponibles los datos en formato csv de ocho comedias urbanas de Lope de Vega. Estas han sido analizadas en mi Trabajo Fin de Máster en Formación e investigación literaria y teatral (UNED), consultable [aquí](http://e-spacio.uned.es/fez/view/bibliuned:master-Filologia-FILTCE-Dmerino).
 
 - _Acero de Madrid, El_ (Lope de Vega)
 - _Amar sin saber a quién_ (Lope de Vega)
@@ -15,8 +15,8 @@ Actualmente están disponibles los datos en formato csv de ocho comedias urbanas
 - _Santiago el verde_ (Lope de Vega)
 
 ## Criterios de extracción y cuantificación
-Los archivos de **aristas** contienen una matriz de adyacencia recogida manualmente en una hoja de cálculo, estableciendo como criterio de cuantificación la interacción lingüística directa entre cada personaje. 
+Los archivos CSV de **aristas** contienen una matriz de adyacencia recogida manualmente en una hoja de cálculo, estableciendo como criterio de cuantificación la interacción lingüística directa entre cada personaje. 
 
-Los archivos con datos sobre los **nodos** incluyen el id, nombre de personaje, género, función dramática, grupo y universo social de cada personaje que interviene.
+Los archivos CSV con datos sobre los **nodos** incluyen el id, nombre de personaje, género, función dramática, grupo y universo social de cada personaje que interviene.
 
-Para más información, consultar [mi sitio web](https://dxvidmr.github.io/projects/enredos_project/) y mi TFM (una vez que se publique).
+Para más información, consultar [mi sitio web](https://dxvidmr.github.io/projects/enredos_project/) y el Trabajo Fin de Máster [aquí](http://e-spacio.uned.es/fez/view/bibliuned:master-Filologia-FILTCE-Dmerino).
